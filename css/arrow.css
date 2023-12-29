@@ -15,4 +15,5 @@
   border-style: solid;
   border-width: 8px 16px 8px 0;
   border-color: transparent greenyellow transparent transparent;
+  z-index: 1;
 }
