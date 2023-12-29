@@ -1,0 +1,10 @@
+#line ul li:after {
+  content: '';
+  position: absolute;
+  right: -8px;
+  bottom: 70%;
+  width: 24px;
+  height: 24px;
+  background-color: #e54c6efa;
+  border-radius: 50%;
+}
