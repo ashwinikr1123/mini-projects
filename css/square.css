@@ -3,7 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+#container {
+  height: 100vh;
+}
 .square {
   margin: 20px auto;
   width: 200px;
